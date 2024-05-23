@@ -8,16 +8,28 @@ function App() {
       imagen: "https://picsum.photos/200",
       title: "Titulo1",
       description: "Descripcion1",
+      generos: [
+        { text: "Fantasía", color: "primary" },
+        { text: "Clásico", color: "secondary" },
+      ],
     },
     {
       imagen: "https://picsum.photos/id/237/200",
       title: "Titulo2",
       description: "Descripcion2",
+      generos: [
+        { text: "Fantasía", color: "primary" },
+        { text: "Clásico", color: "secondary" },
+      ],
     },
     {
       imagen: "https://picsum.photos/seed/picsum/200",
       title: "Titulo3",
       description: "Descripcion3",
+      generos: [
+        { text: "Fantasía", color: "primary" },
+        { text: "Clásico", color: "secondary" },
+      ],
     },
   ];
   return (

@@ -1,8 +1,34 @@
-# React + Vite
+#Módulo 4 REACT I Biblioteca React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Presentación de Página Web
 
-Currently, two official plugins are available:
+![Presentación Página Web](./src/assets/img/presentacion.png)
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+<br/>
+
+## Descripción del PY ⌨️
+
+En este proyevto validaremos nuestros conocimientos de la unidad Introducción a REACT. Aplicaremos los conocimientos en la creación de componentes y de este modo ejercitar y adquirir velocidad al momento de desarrollar aplicaciones en React. La aplicación funciona como Biblioteca.
+
+## Tecnologías Usadas 🛠️
+
+- **HTML** 💀
+- **CSS** 🌈
+- **JS** 🧑‍💻
+- **REACT** 👌
+
+<br/>
+
+---
+
+<br>
+
+## Autor 👨‍💻
+
+**Desarrolladores FullStack G-60⚡**
+
+Sígueme en mis redes sociales: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-sanchez-f-67369b2b)[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/luisfersan)
+<br>
